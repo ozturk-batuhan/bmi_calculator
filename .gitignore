@@ -1,0 +1,5 @@
+build/
+dist/
+*.spec
+my_bmi_records.txt
+__pycache__/
